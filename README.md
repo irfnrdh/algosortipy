@@ -7,3 +7,5 @@ untuk saat ini baru tersedia
 - Bubble Sort
 
 next : https://en.wikipedia.org/wiki/Sorting_algorithm
+
+Visualisasi : https://visualgo.net/en/sorting
